@@ -22,6 +22,8 @@
 ## 📫 Contatti
 - Email: `cucixdev@gmail.com`
 
+---
+
 ## 🧠 Cosa sto studiando
 - Event handling modulare  
 - UI responsive e animazioni fluide  
