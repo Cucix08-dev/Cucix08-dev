@@ -21,7 +21,6 @@
 
 ## 📫 Contatti
 - Email: `cucixdev@gmail.com`
-# Hey, sono Miki 👋
 
 ## 🧠 Cosa sto studiando
 - Event handling modulare  
