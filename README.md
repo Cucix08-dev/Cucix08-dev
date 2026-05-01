@@ -45,8 +45,3 @@
 ## 🛠️ Toolbox
 - VS Code  
 - Git & GitHub  
-
----
-
-## 📈 Statistiche GitHub
-![Stats](https://github-readme-stats.vercel.app/api?username=Cucix08-dev&show_icons=true&theme=tokyonight)
