@@ -1,6 +1,6 @@
 # 👋 Ciao, sono Miki!
 
-💻 **Web Developer & JavaScript**  
+💻 **Web Developer**  
 🎨 Appassionato di CSS avanzato, animazioni, gradienti e UI pulite  
 
 ---
@@ -25,9 +25,9 @@
 ---
 
 ## 🛠️ Progetti principali
-- 🔢 **Calcolatrice modulare JS** con parsing avanzato  
-- 🎨 **Animazioni CSS multi‑frame** (glow, gradienti, transizioni fluide)  
-- 📐 **Layout responsive** con Flexbox e classi modulari  
+- 🔢 **Calcolatrice modulare JS**   
+- 🎨 **Clock** (Uso e calcolo con funzioni goniometriche) 
+- 📐 **Calcolo Codice Fiscale**  
 
 ---
 
@@ -37,8 +37,8 @@
 ---
 
 ## 🧠 Cosa sto studiando
-- Event handling modulare  
-- UI responsive e animazioni fluide  
+- Back-End (Python, node.js)
+- React.js & Vite
 
 ---
 
