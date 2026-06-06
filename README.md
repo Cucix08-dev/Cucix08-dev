@@ -1,4 +1,4 @@
-# 👋 Ciao, sono Miki!
+# 👋 Ciao, sono Michele!
 
 💻 **Web Developer**  
 🎨 Appassionato di CSS avanzato, animazioni, gradienti e UI pulite  
@@ -36,7 +36,7 @@
 ---
 
 ## 🧠 Cosa sto studiando
-- Back-End (Python, node.js)
+- Back-End (node.js)
 - React.js & Vite
 
 ---
