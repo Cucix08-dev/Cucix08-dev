@@ -1,7 +1,7 @@
 # 👋 Ciao, sono Michele!
 
 💻 **Web Developer**  
-🎨 Appassionato di CSS avanzato, animazioni, gradienti e UI pulite  
+📱 **Android Developer**  
 
 ---
 
@@ -12,7 +12,7 @@
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)]()
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)]()
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
-
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ---
 ## 🚀 Altro
@@ -20,13 +20,8 @@
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)]()
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]()
-
----
-
-## 🛠️ Progetti principali
-- 🔢 **Calcolatrice modulare JS**   
-- 🎨 **Clock** (Uso e calcolo con funzioni goniometriche) 
-- 📐 **Calcolo Codice Fiscale**  
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 
 ---
 
@@ -36,6 +31,7 @@
 ---
 
 ## 🧠 Cosa sto studiando
+- Android Studio AND Kotlin
 - Back-End (node.js)
 - React.js & Vite
 
@@ -44,3 +40,5 @@
 ## 🛠️ Toolbox
 - VS Code  
 - Git & GitHub  
+- IntelliJ
+- Android Studio
