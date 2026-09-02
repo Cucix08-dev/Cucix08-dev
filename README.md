@@ -31,7 +31,8 @@
 ---
 
 ## 🧠 Cosa sto studiando
-- Android Studio AND Kotlin
+- Android Studio
+- Kotlin
 - Back-End (node.js)
 - React.js & Vite
 
