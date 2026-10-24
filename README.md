@@ -18,7 +18,7 @@
 
 
 ---
-## 🚀 Altro
+## 🚀 Tools
 [![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white)]()
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)]()
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
@@ -38,11 +38,3 @@
 - Kotlin
 - Back-End (node.js)
 - React.js & Vite
-
----
-
-## 🛠️ Toolbox
-- VS Code  
-- Git & GitHub  
-- IntelliJ
-- Android Studio
